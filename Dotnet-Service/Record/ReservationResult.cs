@@ -1,0 +1,1 @@
+public record ReservationResult(ReservationStatus Status, string Message, string? ReservationId);
